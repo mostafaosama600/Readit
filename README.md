@@ -1,6 +1,6 @@
-# Every Friday i will push a react app for 6 projects challange
+# Every Friday Challange
 
-## 1 -- friday => Read it (Book A Book)
+###### 1 -- friday : ## Read it (Book A Book)
 
 ###### This app about making search input with APIs Goggle Book
 
